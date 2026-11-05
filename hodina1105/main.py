@@ -26,3 +26,4 @@ while odpoved != "s":
     else:
         print("zadej pouze v, m nebo s")
         pokusy -= 1  
+    
